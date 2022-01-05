@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="866584e3-ccc5-4877-96f7-cf4c865625ff" name="Changes" comment="">
+    <list default="true" id="7b361831-ee6a-4822-b6d6-ba8da36b8a11" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/1222.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startbootstrap-resume-gh-pages/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap-resume-gh-pages/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startbootstrap-resume-gh-pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap-resume-gh-pages/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="22wMdFFYGfjZmHD8Xrcib66HMTx" />
+  <component name="ProjectId" id="23GACFbVSy4i0fruW80JN6j20cU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,12 +30,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="866584e3-ccc5-4877-96f7-cf4c865625ff" name="Changes" comment="" />
-      <created>1640744283748</created>
+      <changelist id="7b361831-ee6a-4822-b6d6-ba8da36b8a11" name="Changes" comment="" />
+      <created>1641349922086</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1640744283748</updated>
-      <workItem from="1640744285467" duration="5626000" />
+      <updated>1641349922086</updated>
+      <workItem from="1641349923492" duration="2933000" />
     </task>
     <servers />
   </component>
