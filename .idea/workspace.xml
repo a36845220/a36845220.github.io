@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c17e864-846b-4ef5-9364-d099874e5697" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/startbootstrap-resume-gh-pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap-resume-gh-pages/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +31,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641954938436</updated>
-      <workItem from="1641954939842" duration="8798000" />
+      <workItem from="1641954939842" duration="9079000" />
     </task>
     <servers />
   </component>
